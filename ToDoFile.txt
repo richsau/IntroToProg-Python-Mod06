@@ -1,0 +1,3 @@
+Clean Kitchen,High
+Feed Dogs,High
+Mow Lawn,Low
